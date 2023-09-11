@@ -1,5 +1,5 @@
 # RobloxMassUnfollow
-Simple JavaScript code to unfollow 100 people at once.
+Simple JavaScript code to unfollow for 100 people for you automatically.
 
 # Okay, but how do I use it?
 1. Go to the Roblox site
